@@ -1,0 +1,22 @@
+{
+  "docs": [
+    {
+      "_id": "5cd99d4bde30eff6ebccfe9e",
+      "height": "",
+      "race": "Hobbit",
+      "gender": "Male",
+      "birth": "TA 2430",
+      "spouse": "",
+      "death": "March 25 ,3019",
+      "realm": "",
+      "hair": "",
+      "name": "Gollum",
+      "wikiUrl": "http://lotr.wikia.com//wiki/Gollum"
+    }
+  ],
+  "total": 1,
+  "limit": 1000,
+  "offset": 0,
+  "page": 1,
+  "pages": 1
+}
