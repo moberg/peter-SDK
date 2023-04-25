@@ -4,7 +4,7 @@ import { MovieApiResponse } from './api/MovieApiResponse';
 import { toMovie, toMovies, toQuotes } from './ResponseMappers';
 import { QuoteApiResponse } from './api/QuoteApiResponse';
 import { Quote } from './model/Quote';
-import { ApiError } from './ApiError';
+import ApiError from './ApiError';
 import { PaginationOpts } from './model/PaginationOpts';
 
 const API_BASE_URL = 'https://the-one-api.dev/v2';

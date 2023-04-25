@@ -2,7 +2,7 @@ import fetchMock from 'fetch-mock';
 import * as fs from 'fs';
 import * as assert from 'assert';
 import TheOneApi from '../src/TheOneApi';
-import { ApiError } from '../src/ApiError';
+import ApiError from '../src/ApiError';
 import assertIsMovie from './helpers/assertIsMovie';
 
 describe('movie', async () => {

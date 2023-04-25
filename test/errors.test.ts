@@ -1,7 +1,7 @@
 import fetchMock from 'fetch-mock';
 import * as assert from 'assert';
 import TheOneApi from '../src/TheOneApi';
-import { ApiError } from '../src/ApiError';
+import ApiError from '../src/ApiError';
 
 describe('api errors', async () => {
   const api = TheOneApi.create({ apiKey: 'test-token' });
